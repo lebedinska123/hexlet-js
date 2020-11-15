@@ -1,1 +1,1 @@
-Firs project on haxel
+Firs project on hexlet
