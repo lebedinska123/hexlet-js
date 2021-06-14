@@ -1,1 +1,1 @@
-Firs project on hexlet
+First project on hexlet
